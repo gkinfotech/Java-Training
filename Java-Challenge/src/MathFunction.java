@@ -6,5 +6,8 @@ public class MathFunction {
         System.out.println("Multiplication of:"+Math.multiplyExact(5,2));
         System.out.println("power number:"+Math.pow(2,2));
         System.out.println("Square Root:"+Math.sqrt(2));
+        System.out.println(Math.addExact(10,2));
+        System.out.println(Math.subtractExact(10,2));
+        System.out.println(Math.floorDiv(10,2));
     }
 }
