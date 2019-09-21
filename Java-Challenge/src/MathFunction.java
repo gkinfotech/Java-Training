@@ -9,5 +9,19 @@ public class MathFunction {
         System.out.println(Math.addExact(10,2));
         System.out.println(Math.subtractExact(10,2));
         System.out.println(Math.floorDiv(10,2));
+
+       /* int a =12, b =5;
+        System.out.println("Biggest among Two numbers"+Math.max(a,b));*/
+
+        /*
+
+        if(a>b){
+            System.out.println("A is big"+a);
+        }
+        else {
+            System.out.println("B is big"+b);
+        }*/
     }
 }
+
+

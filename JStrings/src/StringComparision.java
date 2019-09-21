@@ -32,18 +32,5 @@ public class StringComparision {
         String ss2 = " My name is GokulaKrishnan";
         System.out.println(ss2.replaceAll("is","was"));
 
-
-
-
-
     }
 }
-/*
-String Comparison can be done by 3 types:
-1.By equals() method
-2.By = = operator
-3.By compareTo() method
-    s1 == s2 :0
-    s1 > s2   :positive value
-    s1 < s2   :negative value
- */

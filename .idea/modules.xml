@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAbstractionInterface/JAbstractionInterface.iml" filepath="$PROJECT_DIR$/JAbstractionInterface/JAbstractionInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/JArray/JArray.iml" filepath="$PROJECT_DIR$/JArray/JArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JArray-Training/JArray-Training.iml" filepath="$PROJECT_DIR$/JArray-Training/JArray-Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/JArrayList/JArrayList.iml" filepath="$PROJECT_DIR$/JArrayList/JArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JCollections/JCollections.iml" filepath="$PROJECT_DIR$/JCollections/JCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEncapsulation/JEncapsulation.iml" filepath="$PROJECT_DIR$/JEncapsulation/JEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLambda/JLambda.iml" filepath="$PROJECT_DIR$/JLambda/JLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRegex/JRegex.iml" filepath="$PROJECT_DIR$/JRegex/JRegex.iml" />
       <module fileurl="file://$PROJECT_DIR$/JStrings/JStrings.iml" filepath="$PROJECT_DIR$/JStrings/JStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jabstraction1/Jabstraction1.iml" filepath="$PROJECT_DIR$/Jabstraction1/Jabstraction1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Challenge/Java-Challenge.iml" filepath="$PROJECT_DIR$/Java-Challenge/Java-Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Training.iml" filepath="$PROJECT_DIR$/Java-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JmethodPassingArg/JmethodPassingArg.iml" filepath="$PROJECT_DIR$/JmethodPassingArg/JmethodPassingArg.iml" />
     </modules>
   </component>
 </project>
